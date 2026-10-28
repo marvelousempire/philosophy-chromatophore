@@ -1,26 +1,28 @@
-# Clarify That Critique (Family-Business Protocol)
+# Clarify-That Critique — Lined Up
 
-## Reality
-Clarify That exists as a prototype inside nephew. The doctrine is written. The runtime loop is not closed. Multiple homes for one idea.
+## Current State
+
+Clarify-that lives in three places:
+
+1. nephew/prototypes/clarify-that — FJ-011 Reality → Remedy → Proof pilot
+2. nephew/skills/founder-constructive-reasoning — executable engine.mjs wrapping the pilot
+3. ai-skills-library/skills/methodology/constructive-reasoning — Bootstrap English contract checker and ClarifyThat Language Gate document
+
+The Language Gate is a standing instruction. It is not an executable check. The pilot can flag missing stages. It cannot require a remedy before the gap closes. The Valid Intent 90% gate sits outside this loop. Clarification remains a separate ritual instead of the first tentacle on every birth.
 
 ## Flaws
-1. Advisory only. It cannot judge or verify on its own.
-2. Two sources of truth (nephew and ai-skills-library).
-3. Language Gate is a document, not an executable check.
-4. Missing-stage flags have no required remedy.
-5. Three homes for the FJ-011 matrix, pilot, and skill.
 
-## Remedy (Family-Business Protocol)
-Treat this as a family business. Long-term, private, brick-by-brick, responsible.
+- Advisory only. Cannot judge safety, authorize actions, or verify evidence on its own.
+- Two sources of truth for one doctrine (nephew skill and ai-skills-library entry).
+- Language Gate is a document that says run a pass, not a pass that runs.
+- Missing-stage flags have no required remedy field. A gap can close without a proposed fix.
+- Three homes for one idea. FJ-011 matrix in nephew-one-platform, pilot in nephew, skill split between nephew and ai-skills-library.
 
-- Collapse to one authoritative home (philosophy-chromatophore).
-- Make the Language Gate fail the build if human-facing text has not passed it.
-- Require a remedy field on every missing-stage flag.
-- Wire constructive reasoning into the Valid Intent 90% gate as the first tentacle.
-- No copies. Pointers only.
+## Reshape
 
-## Proof
-This file is the first brick. The next brick is the executable gate.
+- One authoritative location for the method. Every other copy becomes a pointer.
+- Language Gate becomes an executable check that fails the build when human-facing text has not passed it. Same pattern as check-contract.py asserting Bootstrap English words.
+- Every missing-stage flag requires a remedy field. A gap cannot close without a proposed fix.
+- Founder-constructive-reasoning engine wires directly into the Valid Intent 90% gate. Clarification is the first tentacle on every actor birth.
 
-## Status
-Seeded 2026-10-28 under family-business protocol.
+This is the lined-up version.
