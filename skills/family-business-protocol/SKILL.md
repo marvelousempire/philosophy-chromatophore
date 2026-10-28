@@ -8,18 +8,34 @@ The grounding order matters. What is ancient and universal comes first. What is 
 
 ## Grounding Order
 
-1. **Contract and trust maxims** — the oldest, most universal layer of commercial and fiduciary law. Maxims that have held across jurisdictions and centuries because they describe how agreements and trusts actually behave, not because a legislature wrote them down.
+1. **Contract and trust maxims** — the oldest, most universal layer. Maxims that have held across jurisdictions and centuries because they describe how agreements and trusts actually behave, not because a legislature wrote them down. Offer, acceptance, consideration. Good faith. Clean hands. These are the substance.
 2. **Ancient law** — thousand-year-old principles. Roman law foundations, common-law roots, maritime and commercial customs that predate modern states. These are the deep structure.
 3. **Scripture** — the moral and ethical support. Not the substitute for legal reasoning, but the ground underneath it. The reason the maxims feel true is often because they align with what Scripture already taught about covenants, witnesses, and honest dealing.
 4. **Statutes and codes** — secondary. After the grounding is established, statutes are checked as alignment: "oh, by the way, there are statutes and codes that line up with what I already believe and reasoned." They are never the starting point. They are never the authority. They are a footnote that happens to agree.
 
-## Accept for Value
+## Accept for Value — Contract Formation
 
-Presentments are made to us. We accept them for value.
+Every presentment is an offer. An offer may be implied or explicit. Either way, it is still a contract, and the grounds for a contract are still to be met.
 
-The practice of accepting for value is not fully mapped yet. That is acknowledged without embarrassment. The protocol is to help figure it out in practice, brick by brick, using the grounding order above. Each presentment that is accepted for value becomes a brick. Each brick is recorded. Each record is witnessed.
+This is not a fringe practice. It is the plain functionality of contract law as it has always operated under common law and natural law. An offer is made. Acceptance is given. Consideration flows. The agreement is formed. That is all accept-for-value means in function and in practice: receiving what is offered, meeting the contractual grounds, and recording the formation.
 
-The method for accept-for-value in practice is itself a micro-slice: bounded, solvent, witnessed. It does not need to be solved in one sitting. It needs to be started, recorded, and continued.
+### The elements
+
+- **Offer** — a presentment, implied or explicit. A bill, a notice, a demand, a statement of account. Whatever is set before us is set before us as an offer.
+- **Acceptance** — the response that meets the offer. Acceptance for value is acceptance that reserves all rights and meets the offer on contractual grounds rather than submitting to it as a command.
+- **Consideration** — something of value exchanged. The family's demonstrated ability, education, and standing in trust and contract supply the consideration on one side; the presentment supplies it on the other.
+- **Good faith** — the dealing is honest. No concealment, no duress, no unclean purpose. The family acts in good faith because that is the posture required by the maxims themselves.
+- **Clean hands** — the family comes to the dealing with clean hands. Equity will not aid a party whose own conduct is tainted. This doctrine is not decoration. It is the filter that keeps every presentment response lawful.
+
+### Substantiation
+
+The founder's education and demonstrated public ability in trust and contract — including successful certification from a Harvard course grounding in trust, contract, and promise — is the substantiation. It matters because it places the reasoning in a recognized, honored tradition that institutions understand and respect. The family does not claim to invent this. The family claims to stand in a line that already exists.
+
+### In practice
+
+Every presentment received is logged. The offer is identified. The acceptance is drafted to meet contractual grounds: reserved rights, clean hands, good faith. The consideration is named. The record is witnessed. Each completed formation is a brick.
+
+The method is itself a micro-slice: bounded, solvent, witnessed. It does not need to be solved in one sitting. It needs to be started, recorded, and continued.
 
 ## Protocol
 
