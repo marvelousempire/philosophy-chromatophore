@@ -20,6 +20,14 @@ Color, shape, label, position, and media type are all live bindings on the same 
 
 This is the ACT surface binding law, locked in Automata at `automata/doctrine/act-surface-binding-law.md`. Define That's relabel pass is that same law applied to language files. Motifs, colored words, and dynamic short codes feed the bindings. Change the word, the binding updates, the interface re-renders.
 
+## Real Examples
+
+- A photo image on screen. Press a button. It dissolves into its own text content — same pixels, new resolution.
+- Press again. A video is on the screen, ready to play.
+- Static to readable to playable. Three media types, one verb, no seams.
+
+The smoothness is the point, because any stutter breaks the illusion that nothing ever left the screen.
+
 ## The Shift from Waiting to Acquiring
 
 The goal is not to remove load time. The goal is to improve workflow by reducing load time and replacing it with actionable acquisition time. The user is not waiting for a page. The user is acquiring the next state the moment it becomes available.
@@ -34,14 +42,18 @@ Optimus Instant is the product that carries this law. It collapses the three par
 
 Validity is not a filter after the fact. The state is valid by construction. The moment the morph completes, the new state is there and usable. Zero dead time between what was and what is.
 
-## The Full Range of Media
+## Under the Hood: The MorphLaw-Approved Stack
 
-Static to readable to playable. Three media types, one verb, no seams:
+These are the technologies stack-that catalogs as the parts that deliver Morph Law. WordPress had LAMP. We bubble off, egg off, and ribbon off named stacks from these parts — each one packaged and sold as goods.
 
-- Press a button and the photo dissolves into its own text content.
-- Press again and a video is on the screen, ready to play.
+- **WebGPU** — the rendering floor. Compute shaders, particle systems, pixel simulation, post-processing on the GPU. Up to ten times fewer CPU cycles per frame than WebGL in complex scenes. All major browsers ship it by default: Chrome, Firefox, Safari twenty-six and up, Edge.
+- **WebGL 2** — the universal fallback for older devices. One codebase covers both paths.
+- **PixiJS** — the fastest two-D renderer. Three-D beta with two-times upscaling at one hundred twenty frames per second. Bloom, depth of field, reflections, motion blur at sixty frames per second on WebGPU and WebGL.
+- **Three.js** version one eighty-one — WebGPU renderer with automatic WebGL fallback. High-accuracy screen-space reflections at sixty frames per second.
+- **Babylon.js** nine point twenty-six — dual-path WebGPU and WebGL.
+- **GSAP** — the tween verb. Color, scale, rotation, skew, position bindings animated with precision.
 
-The smoothness is the point, because any stutter breaks the illusion that nothing ever left the screen.
+stack-that does not render anything itself. It holds the catalog, the provenance, the release bindings, and it feeds the ACT V4 surface what it needs to morph. The octopus changes form. stack-that is what makes the change possible underneath.
 
 ## The Capability
 
@@ -54,6 +66,8 @@ One verb: **rebind**.
 The chromatophore is the biological precedent. A cell that changes color and pattern without changing its body. The nonagon is the stamp — eight tentacles plus the head, four corners, four mid-edges, one center. The octopus is the animal. The brain is the proof that many channels can converge on one integration point and produce a single accessible experience.
 
 Morph is chromatophore in software. Same body. New form. The shape stays fixed. The values change.
+
+At the cellular level, morph law is chromatophore: the node itself, and everything under chromatophore — the octopus, the nonagon, the brain, and morph law as the means of movement.
 
 ## What This Is Not
 
