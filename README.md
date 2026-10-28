@@ -2,7 +2,7 @@
 
 ## What This Is
 
-This repository is the philosophy pool. It holds the doctrine behind the Actor Profile system: the octopus, the nonagon, the chromatophore, and the brain as precedent.
+This repository is the philosophy pool. It holds the doctrine behind the Actor Profile system: the octopus, the nonagon, the chromatophore, the brain as precedent, and Morph Law as the means of movement.
 
 It was built through direct conversation. The questions asked and the answers given about the nine-node lattice, neural integration mechanisms, Global Neuronal Workspace Theory, Global Workspace Theory in AI, and the pure Go + Rust + Ajax base (no AI) are the contact material. That contact lives in the actor repository. This repository is where the philosophy itself is held.
 
@@ -60,9 +60,23 @@ What only a person can do stays outside: intent, judgment under incomplete rules
 
 AI sits above the pure base and beside the person. It fills gaps the pure system cannot see. It proposes the next micro-slice. It holds the lattice values. It never owns the center.
 
+## Morph Law
+
+Morph Law is the verb of this philosophy. Rebind, never teleport. The chromatophore is the skin — the surface that takes form. Morph Law is the muscle — the means by which that form changes without the body ever leaving the screen. Same pixels, new coordinates. One verb: rebind.
+
+See `morph-law.md` for the full doctrine: the range-is-the-frame boundary, the Optimus Instant stack (Ajax, Go, Rust), the approved technology catalog, and the capability definition with before-and-after frame hash as witness.
+
 ## Files
 
 - `nonagon.md` — the nine-sided stamp
 - `octopus.md` — eight tentacles plus head
 - `chromatophore.md` — the form that takes shape
 - `brain-precedent.md` — the biological proof
+- `morph-law.md` — the verb of movement: rebind, never teleport
+- `stack-that-doctrine.md` — the parts catalog that feeds the morph surface
+- `game-fusion.md` — Game That as the stage where Morph Law performs
+- `symphonic-dynasty.md` — the twelve notes, the trust, the grand tour
+- `founder-intent.md` — the founder's constructive reasoning
+- `clarify-that-critique.md` — the clarify-that review
+- `skills/founder-constructive-reasoning/SKILL.md` — the cornerstone skill
+- `skills/family-business-protocol/SKILL.md` — the family-business gate
