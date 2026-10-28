@@ -34,11 +34,12 @@ The goal is not to remove load time. The goal is to improve workflow by reducing
 
 ## Optimus Instant
 
-Optimus Instant is the product that carries this law. It collapses the three parents into one surface:
+Optimus Instant is the product that carries this law. It collapses the four parents into one surface:
 
 - **Ajax** gave the delta — instant partial updates, no full reload.
 - **Go** gave the path — the single-binary spine the delta travels on.
 - **Rust** gave the safety — memory-safe compute with no garbage-collector pauses on the hot path.
+- **Motion Law** gave the body — the rendering and animation stack that makes every rebind visible: WebGPU as the rendering floor with compute shaders and particle systems, WebGL 2 as the universal fallback, PixiJS for the fastest two-D rendering, Three.js version one eighty-one with WebGPU renderer, Babylon.js nine point twenty-six dual-path, and GSAP as the tween verb for color, scale, rotation, skew, and position bindings.
 
 Validity is not a filter after the fact. The state is valid by construction. The moment the morph completes, the new state is there and usable. Zero dead time between what was and what is.
 
