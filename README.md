@@ -12,41 +12,31 @@ The nine-node lattice is the fixed stamp. The chromatophore is the form that tak
 
 Rounded corners preferred. The shape stays fixed. The values change.
 
-## Mermaid
+## Diagram
 
-```mermaid
-graph TD
-    subgraph Chromatophore["Nine-node chromatophore (rounded square)"]
-        NW["NW<br/>corner"]
-        N["N<br/>mid"]
-        NE["NE<br/>corner"]
-        W["W<br/>mid"]
-        C["C<br/>center"]
-        E["E<br/>mid"]
-        SW["SW<br/>corner"]
-        S["S<br/>mid"]
-        SE["SE<br/>corner"]
-    end
-
-    NW --- N
-    N --- NE
-    NE --- E
-    E --- SE
-    SE --- S
-    S --- SW
-    SW --- W
-    W --- NW
-
-    NW --- C
-    N --- C
-    NE --- C
-    E --- C
-    SE --- C
-    S --- C
-    SW --- C
-    W --- C
 ```
+         ┌─────┐
+    NW ──┤  N  ├── NE
+    │    └─────┘    │
+    │               │
+ ┌──┴──┐         ┌──┴──┐
+ │  W  │    C    │  E  │
+ └──┬──┘         └──┬──┘
+    │               │
+    │    ┌─────┐    │
+    SW ──┤  S  ├── SE
+         └─────┘
+```
+
+Four corners (NW, NE, SW, SE) at the outer points. Four mid-edges (N, E, S, W) between them. Center (C) at the fusion point. The corners read as rounded, not sharp.
 
 ## Precedent
 
 The brain integrates distributed activity through thalamocortical loops, global workspace ignition, and rate-based binding. The lattice captures the same pattern: many channels feed one fusion point. The center is where local processing becomes accessible content.
+
+## Files
+
+- `nonagon.md` — the nine-sided stamp
+- `octopus.md` — eight tentacles plus head
+- `chromatophore.md` — the form that takes shape
+- `brain-precedent.md` — the biological proof
