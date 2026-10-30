@@ -66,6 +66,10 @@ Morph Law is the verb of this philosophy. Rebind, never teleport. The chromatoph
 
 See `morph-law.md` for the full doctrine: the range-is-the-frame boundary, the Optimus Instant stack (Ajax, Go, Rust), the approved technology catalog, and the capability definition with before-and-after frame hash as witness.
 
+## Founder word-to-meaning index
+
+The [October 30 founder keyword and sense table](docs/FOUNDER-KEYWORD-SENSE-MAP-20261030.md) starts with the spoken words **instant, binary, kernel, semantic, node, nodes, token, synonymous, variable, placeholder** and connects each to why it entered the Chromatophore / Morph Law / Optimus Instant discussion. Supporting terms from this repository are distinguished from the founder's explicit word list. Each definition is marked as source-backed, proposed, metaphorical or unresolved; similar words are not silently equated. The [typed term records](data/founder-keyword-sense-map.v1.json) are a reusable source table, not an activated application or verified TableTHAT workbook.
+
 ## Files
 
 - `nonagon.md` — the nine-sided stamp
