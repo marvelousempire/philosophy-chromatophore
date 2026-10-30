@@ -1,0 +1,302 @@
+{
+  "schema": "philosophy-chromatophore.founder-keyword-sense-map/v1",
+  "date": "2026-10-30",
+  "status": "source-candidate-not-runtime-law",
+  "title": "Founder keyword and sense map",
+  "source": "October 30, 2026 founder voice-conversation transcript and philosophy-chromatophore source",
+  "spoken_keywords": [
+    "instant",
+    "binary",
+    "kernel",
+    "semantic",
+    "node",
+    "nodes",
+    "token",
+    "synonymous",
+    "variable",
+    "placeholder"
+  ],
+  "interpretation_boundary": "working meanings are not founder verbatim; no automatic synonym equivalence, authority or executor",
+  "entries": [
+    {
+      "id": "CK-001",
+      "word": "instant",
+      "provenance": "explicit",
+      "role": "Temporal/experience aim",
+      "working_meaning": "A useful next state feels available without rebuilding the whole view.",
+      "distinction": "Do not equate with zero network/compute latency.",
+      "source": "morph-law.md; Optimus Instant philosophy",
+      "meaning_status": "proposed sense"
+    },
+    {
+      "id": "CK-002",
+      "word": "binary",
+      "provenance": "explicit",
+      "role": "Contrast/state or representation",
+      "working_meaning": "Investigate zero/one decisions and the separate meanings of encoded bits versus a compiled executable.",
+      "distinction": "Do not collapse Boolean state into a Go/Rust binary.",
+      "source": "founder-intent.md; philosophy-optimus-instant ON-008",
+      "meaning_status": "sense unresolved"
+    },
+    {
+      "id": "CK-003",
+      "word": "kernel",
+      "provenance": "explicit",
+      "role": "Core/continuity",
+      "working_meaning": "Explore the smallest governing semantic/operating core that survives changing faces and bindings.",
+      "distinction": "Not a request to build an OS kernel or duplicate Automata.",
+      "source": "philosophy-optimus-instant ON-007; SNF",
+      "meaning_status": "proposed semantic-operating sense"
+    },
+    {
+      "id": "CK-004",
+      "word": "semantic",
+      "provenance": "explicit",
+      "role": "Meaning",
+      "working_meaning": "Preserve what a concept means and its original Primary Intent, not just the spelling on the screen.",
+      "distinction": "Meaning must not be silently inferred as permission.",
+      "source": "philosophy-semantic-node-framework/PHILOSOPHY.md",
+      "meaning_status": "source-backed concept"
+    },
+    {
+      "id": "CK-005",
+      "word": "node",
+      "provenance": "explicit",
+      "role": "Identity-bearing unit",
+      "working_meaning": "One identifiable semantic or functional unit that can carry typed relationships and changing bindings.",
+      "distinction": "A node is not automatically a process, screen, actor or executor.",
+      "source": "founder-intent.md; SNF README",
+      "meaning_status": "source-backed concept"
+    },
+    {
+      "id": "CK-006",
+      "word": "nodes",
+      "provenance": "explicit",
+      "role": "Relationships/composition",
+      "working_meaning": "Multiple nodes can be connected, composed, compared and presented as a structure.",
+      "distinction": "Plurality does not imply an arbitrary fixed node count.",
+      "source": "nonagon.md; SNF README",
+      "meaning_status": "source-backed concept"
+    },
+    {
+      "id": "CK-007",
+      "word": "token",
+      "provenance": "explicit",
+      "role": "Compact reference",
+      "working_meaning": "Possible shorthand or EGG-like reference to stable identity or meaning across representations.",
+      "distinction": "Not necessarily a model token, bearer credential or security token.",
+      "source": "SNF README; founder question",
+      "meaning_status": "sense open"
+    },
+    {
+      "id": "CK-008",
+      "word": "synonymous",
+      "provenance": "explicit",
+      "role": "Language/sense mapping",
+      "working_meaning": "Explore when different words point to the same sense or capability and how equivalence is justified.",
+      "distinction": "Similar wording is not automatically identical identity, authority or behavior.",
+      "source": "SNF semantic layers; founder question",
+      "meaning_status": "sense open"
+    },
+    {
+      "id": "CK-009",
+      "word": "variable",
+      "provenance": "explicit",
+      "role": "Changeable value",
+      "working_meaning": "Distinguish a named value or binding that can change while the reference remains stable.",
+      "distinction": "Variable values must not rewrite source intent unnoticed.",
+      "source": "founder-intent.md; morph-law.md",
+      "meaning_status": "proposed sense"
+    },
+    {
+      "id": "CK-010",
+      "word": "placeholder",
+      "provenance": "explicit",
+      "role": "Stable slot",
+      "working_meaning": "A named position that can receive different approved content or targets.",
+      "distinction": "A blank slot does not authorize arbitrary content or action.",
+      "source": "founder-intent.md; SNF EGG README",
+      "meaning_status": "proposed sense"
+    },
+    {
+      "id": "CK-011",
+      "word": "chromatophore",
+      "provenance": "repository vocabulary",
+      "role": "Form/adaptation",
+      "working_meaning": "Visible form changes while the underlying subject and binding contract remain consistent.",
+      "distinction": "A biological analogy is not runtime proof.",
+      "source": "chromatophore.md; README.md",
+      "meaning_status": "source-backed concept"
+    },
+    {
+      "id": "CK-012",
+      "word": "morph law",
+      "provenance": "repository vocabulary",
+      "role": "Movement/rebinding",
+      "working_meaning": "A valid change moves through rebind rather than a replacement surface.",
+      "distinction": "Animation alone does not prove preserved state.",
+      "source": "morph-law.md",
+      "meaning_status": "source-backed doctrine"
+    },
+    {
+      "id": "CK-013",
+      "word": "rebind",
+      "provenance": "repository vocabulary",
+      "role": "Operation",
+      "working_meaning": "Change which value, target, form or interface an existing reference resolves to.",
+      "distinction": "Must preserve intended identity and owner admission.",
+      "source": "morph-law.md",
+      "meaning_status": "source-backed verb"
+    },
+    {
+      "id": "CK-014",
+      "word": "nonagon",
+      "provenance": "repository vocabulary",
+      "role": "Reusable structure",
+      "working_meaning": "Nine-position conceptual stamp: four corners, four midpoints and one center.",
+      "distinction": "Nine positions do not mean every system has nine physical parts.",
+      "source": "nonagon.md",
+      "meaning_status": "source-backed concept"
+    },
+    {
+      "id": "CK-015",
+      "word": "octopus",
+      "provenance": "repository vocabulary",
+      "role": "Distributed integration metaphor",
+      "working_meaning": "Eight channels plus a head illustrate many contributions converging.",
+      "distinction": "Not a software scheduling algorithm.",
+      "source": "octopus.md; README.md",
+      "meaning_status": "metaphor"
+    },
+    {
+      "id": "CK-016",
+      "word": "egg",
+      "provenance": "repository vocabulary",
+      "role": "Semantic identity/reference",
+      "working_meaning": "An SNF EGG is a compact stable identity whose target may change through valid bindings.",
+      "distinction": "EGG does not equal the entire SNF nor confer permission.",
+      "source": "philosophy-semantic-node-framework/README.md",
+      "meaning_status": "source-backed concept"
+    },
+    {
+      "id": "CK-017",
+      "word": "shortcode",
+      "provenance": "repository vocabulary",
+      "role": "Dynamic reference syntax",
+      "working_meaning": "A compact expression/slot that resolves to currently bound meaning or content.",
+      "distinction": "Do not confuse shortcode syntax with full application state.",
+      "source": "founder-intent.md",
+      "meaning_status": "source-backed analogy"
+    },
+    {
+      "id": "CK-018",
+      "word": "binding",
+      "provenance": "repository vocabulary",
+      "role": "Link/reference mapping",
+      "working_meaning": "Connect an existing stable identity or slot to a current value, source or target.",
+      "distinction": "A mapping is not inherently an authorized effect.",
+      "source": "morph-law.md; SNF README",
+      "meaning_status": "source-backed concept"
+    },
+    {
+      "id": "CK-019",
+      "word": "payload",
+      "provenance": "repository vocabulary",
+      "role": "Content/data",
+      "working_meaning": "What is carried by a node, expression or interface, independent of its visible style.",
+      "distinction": "Payload swaps can have data-owner and policy consequences.",
+      "source": "founder-intent.md; Morph Triad ACT V5 docs",
+      "meaning_status": "proposed cross-reference"
+    },
+    {
+      "id": "CK-020",
+      "word": "pixel",
+      "provenance": "repository vocabulary",
+      "role": "Visible medium",
+      "working_meaning": "The visible unit used to explain retained surface and movement.",
+      "distinction": "'Same pixels' is a design law/metaphor until measured.",
+      "source": "founder-intent.md; morph-law.md",
+      "meaning_status": "source-backed metaphor"
+    },
+    {
+      "id": "CK-021",
+      "word": "form",
+      "provenance": "repository vocabulary",
+      "role": "Presentation",
+      "working_meaning": "How a semantic subject becomes visible on a current surface.",
+      "distinction": "Form does not determine execution permissions.",
+      "source": "chromatophore.md; Niece philosophy",
+      "meaning_status": "source-backed responsibility"
+    },
+    {
+      "id": "CK-022",
+      "word": "function",
+      "provenance": "repository vocabulary",
+      "role": "Behavior",
+      "working_meaning": "What an owned operation actually does regardless of presentation.",
+      "distinction": "Function must be backed by a real owner.",
+      "source": "SNF app/execution graphs; Nephew philosophy",
+      "meaning_status": "source-backed responsibility"
+    },
+    {
+      "id": "CK-023",
+      "word": "dynamic",
+      "provenance": "repository vocabulary",
+      "role": "Changeability",
+      "working_meaning": "Values, bindings and context can change at runtime.",
+      "distinction": "Dynamic is not unrestricted.",
+      "source": "founder-intent.md",
+      "meaning_status": "source-backed principle"
+    },
+    {
+      "id": "CK-024",
+      "word": "modularity",
+      "provenance": "repository vocabulary",
+      "role": "Composability",
+      "working_meaning": "Replace or recombine qualified components without rebuilding the whole subject.",
+      "distinction": "Compatibility and ownership matter.",
+      "source": "founder-intent.md",
+      "meaning_status": "source-backed principle"
+    },
+    {
+      "id": "CK-025",
+      "word": "primary intent",
+      "provenance": "repository vocabulary",
+      "role": "Governing meaning",
+      "working_meaning": "Why a Master Node or creation exists; descendants stay within its scope.",
+      "distinction": "A new UI cannot silently rewrite Primary Intent.",
+      "source": "philosophy-semantic-node-framework/PHILOSOPHY.md",
+      "meaning_status": "source-backed authority"
+    },
+    {
+      "id": "CK-026",
+      "word": "continuity",
+      "provenance": "repository vocabulary",
+      "role": "Retained work/context",
+      "working_meaning": "Same subject, draft, selected state and acknowledged result through changes.",
+      "distinction": "Smooth visuals alone are insufficient.",
+      "source": "Optimus Instant philosophy; ACT V4 core",
+      "meaning_status": "proposed acceptance"
+    },
+    {
+      "id": "CK-027",
+      "word": "symbiotic event",
+      "provenance": "repository vocabulary",
+      "role": "Fusion",
+      "working_meaning": "The center is a new combined outcome of interacting parts, rather than just an extra part.",
+      "distinction": "Metaphorical fusion is not automatic integration.",
+      "source": "README.md",
+      "meaning_status": "source-backed metaphor"
+    },
+    {
+      "id": "CK-028",
+      "word": "actor profile",
+      "provenance": "repository vocabulary",
+      "role": "Becoming/record",
+      "working_meaning": "Manifest or transcript of what an actor/node becomes across contributions.",
+      "distinction": "Profile is not proof of live actor commissioning.",
+      "source": "founder-intent.md; README.md",
+      "meaning_status": "source-backed concept"
+    }
+  ]
+}
