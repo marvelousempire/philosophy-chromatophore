@@ -62,6 +62,10 @@ Instead of choosing an implementation tool first, the keywords expose recurring 
 - [Optimus Instant: ON-007 kernel clarification](https://github.com/marvelousempire/philosophy-optimus-instant/pull/1). That separate philosophy remains the owner of the ON-007 study; this map is a cross-reference, not a competing copy.
 - Actual changing surface and app integration belong to ACT, Morph Law, Niece, Nephew and the applicable owner. No approval, release, Gitea canonical adoption or runtime testing is implied by this keyword map.
 
+## Optimus Instant Baby context
+
+The [Optimus Instant Baby conversation crosswalk](OPTIMUS-INSTANT-BABY-CONVERSATION-CROSSWALK-20261030.md) indexes the founder's broader ON-001 through ON-031 discussion, including the kernel, SNF, binary, rotation, morphing, compression and retrieval concepts. This sense table records the terms; the linked Optimus Instant inventory remains the detailed source.
+
 ## TableTHAT reuse
 
 The companion [machine-readable term map](../data/founder-keyword-sense-map.v1.json) preserves stable term IDs, exact founder-vs-repository provenance, semantic-role flags, distinctions, sources and statuses. It is **source data**, not a verified live TableTHAT workbook; an accepted TableTHAT importer may project it into a sheet while preserving author wording and unresolved meanings.
