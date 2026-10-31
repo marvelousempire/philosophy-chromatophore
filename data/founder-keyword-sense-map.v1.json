@@ -298,5 +298,14 @@
       "source": "founder-intent.md; README.md",
       "meaning_status": "source-backed concept"
     }
-  ]
+  ],
+  "related_discussion": {
+    "name": "Optimus Instant Baby / Optimus Instant Stage Baby",
+    "owner": "philosophy-optimus-instant",
+    "owner_inventory": "docs/2026-10-29-optimus-working-inventory.md",
+    "owner_inventory_ids": "ON-001..ON-031",
+    "current_repository_crosswalk": "docs/OPTIMUS-INSTANT-BABY-CONVERSATION-CROSSWALK-20261030.md",
+    "crosswalk_purpose": "Trace recorded inventoried concepts and October 30 founder speech into Chromatophore/Morph Law while preserving owner definitions and unresolved meanings.",
+    "source_level_only": true
+  }
 }
