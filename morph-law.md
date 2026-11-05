@@ -1,5 +1,9 @@
 # Morph Law
 
+## Place within the complete Chromatophore organism
+
+Morph Law's visible screen/pixel rebind is a concrete expression of Chromatophore, **not a restriction of the philosophy to UI, UX or rendering**. Form, behavior, function, state, meaning, work continuity and authorized operations all belong to the whole organism. A smooth animation alone does not prove that an underlying operation occurred; keep actual owners, permissions and authoritative receipts intact. Read [Whole-Organism Doctrine](WHOLE-ORGANISM-DOCTRINE.md) before interpreting the historical frame/pixel treatment below.
+
 ## What Morph Is
 
 Morph is not decoration. Morph is locomotion.
