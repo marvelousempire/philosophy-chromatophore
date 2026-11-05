@@ -1,5 +1,10 @@
 # Philosophy Chromatophore
 
+## Whole-organism scope
+
+**Chromatophore is the governing philosophy of the entire coherent, adaptive software organism.** It includes each node's identity, becoming, meaning, structure, form, behavior, function, computation, interaction, authorized action and continuity. It is not limited to the UI, UX, frontend, backend, renderer, animation, engine or their integration. These are expressions of the whole, not the whole's definition. The octopus, nonagon, Actor Profile, Morph Law and Optimus Instant belong together within this philosophy. Read [Whole-Organism Doctrine](WHOLE-ORGANISM-DOCTRINE.md) before interpreting the individual examples below.
+
+
 ## What This Is
 
 This repository is the philosophy pool. It holds the doctrine behind the Actor Profile system: the octopus, the nonagon, the chromatophore, the brain as precedent, and Morph Law as the means of movement.

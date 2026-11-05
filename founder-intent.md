@@ -1,5 +1,9 @@
 # Founder's Intent — Chromatophore
 
+## Founder clarification: complete organism (November 5, 2026)
+
+**Chromatophore is the philosophy of the entire coherent software organism, not a frontend, backend, UI, UX, engine or visual technique.** The node's birth and becoming, Actor Profile, identity, meaning, structure, data, behavior, form, function, computation, interaction, authorization, actual effects and continuity belong together. The founder's Hairline comparison is about making an idea tangible as an executable experience across its intended scope, not simply copying an interactive illustration. The earlier octopus, nonagon, brain, pixel and dynamic-short-code descriptions remain essential examples of the doctrine, not its boundaries. See [Whole-Organism Doctrine](WHOLE-ORGANISM-DOCTRINE.md).
+
 *Paraphrased from direct conversation, 2026-10-28. These are the founder's words for what chromatophore means.*
 
 ## What Chromatophore Actually Is
