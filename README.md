@@ -1,5 +1,7 @@
 # Philosophy Chromatophore
 
+[First-class Behavior Contract and Eight Lenses](BEHAVIOR-FIRST-CLASS.md) defines triggers, conditions, actions, state changes, feedback, owner, evidence and continuity as one expression of the whole, alongside Form. The reusable implementation candidate is in [Morph Law PR #3](https://github.com/marvelousempire/morph-law/pull/3). No UI animation is treated as proof of a real effect.
+
 ## Whole-organism scope
 
 **Chromatophore is the governing philosophy of the entire coherent, adaptive software organism.** It includes each node's identity, becoming, meaning, structure, form, behavior, function, computation, interaction, authorized action and continuity. It is not limited to the UI, UX, frontend, backend, renderer, animation, engine or their integration. These are expressions of the whole, not the whole's definition. The octopus, nonagon, Actor Profile, Morph Law and Optimus Instant belong together within this philosophy. Read [Whole-Organism Doctrine](WHOLE-ORGANISM-DOCTRINE.md) before interpreting the individual examples below.

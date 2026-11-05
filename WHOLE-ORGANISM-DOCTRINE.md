@@ -33,3 +33,7 @@ This is one coherent system with distinct responsibilities, not a demand to eras
 *Correct:* “Chromatophore is the governing philosophy of the entire software organism. Its becoming, identity, meaning, structure, form, behavior, function, computation, interaction, authorized action, evidence, experience and continuity are expressions of one coherent whole.”
 
 Every summary, contribution and implementation review must begin with that complete scope and then state explicitly which particular expression it addresses. The original repository's analogies and historical definitions remain part of the whole.
+
+## November 5 first-class behavior refinement
+
+The eight behavior categories and source-bound trigger → condition → action → state → feedback → owner/evidence record are specified in [Behavior as a First-Class Node](BEHAVIOR-FIRST-CLASS.md). This is an expression of the **whole-organism** Chromatophore philosophy, not a narrowing to client-side event handlers. Super Fast Look, Very Fast Look, and Fast Look express increasing execution capabilities without splitting the philosophy into three products or treating visual feedback as proof of backend success.
