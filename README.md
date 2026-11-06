@@ -87,3 +87,7 @@ See `morph-law.md` for the full doctrine: the range-is-the-frame boundary, the O
 - `clarify-that-critique.md` — the clarify-that review
 - `skills/founder-constructive-reasoning/SKILL.md` — the cornerstone skill
 - `skills/family-business-protocol/SKILL.md` — the family-business gate
+
+## Kokonut UI — physical-feeling behavior within the whole organism (2026-11-06)
+
+The founder's **Kokonut UI** (official spelling; React/Tailwind/shadcn collection) request is now a named, governed [Chromatophore expression](KOKONUT-UI-WHOLE-ORGANISM-EXPRESSION-20261106.md). Pull Cord, Detent Dial, Tear Button, Slide to Confirm, Apple Activity Card, Activity Terrain and Receipt Printer are mapped to form, behavior, function, owner authorization, accessibility, state and proof. The whole organism, octopus/nonagon/Morph Law remain authoritative. **A mapped candidate is not an installed component or an executed action.**
