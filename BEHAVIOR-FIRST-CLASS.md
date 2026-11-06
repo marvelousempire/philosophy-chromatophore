@@ -55,3 +55,7 @@ Do not turn this example process into an assertion that these individual apps ar
 ## Reference and supersession
 
 This is a clarification of the founder's most recent eight-category behavior outline, not a destructive rewrite of earlier Skin/Muscle, Nine Nodes or Morph Triad metaphors. Existing `WHOLE-ORGANISM-DOCTRINE.md`, `chromatophore.md` and `morph-law.md` retain historical meaning; later accepted interpretations are labeled with source and date.
+
+## Kokonut UI specimen — behavior is not a visual effect
+
+[Named physical-interaction reference (November 6)](KOKONUT-UI-WHOLE-ORGANISM-EXPRESSION-20261106.md): Detent Dial, Pull Cord, Tear Button, Slide to Confirm, Apple Activity Card, Activity Terrain and Receipt Printer are source-linked cases. Their semantics must be evaluated through the eight lenses and require owner acknowledgement beyond animation. The upstream registry is React/Tailwind/shadcn, not an installed Chromatophore engine or a replacement for native Apple components. Retain no-motion/keyboard paths and independent proof.
