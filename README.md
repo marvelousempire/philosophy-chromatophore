@@ -1,3 +1,5 @@
+> **Founder's core intent: Dynamic yet modular.** The [Founder Charter](founder-charter/INDEX.md) gives this repository a numbered reading order, Must Haves, Must Denies, and domain-specific proof. Documentation is not working runtime acceptance.
+
 # Philosophy Chromatophore
 
 [First-class Behavior Contract and Eight Lenses](BEHAVIOR-FIRST-CLASS.md) defines triggers, conditions, actions, state changes, feedback, owner, evidence and continuity as one expression of the whole, alongside Form. The reusable implementation candidate is in [Morph Law PR #3](https://github.com/marvelousempire/morph-law/pull/3). No UI animation is treated as proof of a real effect.
