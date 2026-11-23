@@ -2,6 +2,10 @@
 
 # Philosophy Chromatophore
 
+## Handbook and StubTHAT animal research
+
+The [Chromatophore handbook](handbook/00-INDEX.md) indexes animal mechanisms in [StubTHAT-style research records](handbook/stub-that/animal-research/00-INDEX.md). Each discussed animal has a separate evidence and interpretation stub. The [butterfly optical research page](handbook/stub-that/animal-research/05-butterfly.md) separates metamorphosis from structural color, iridescence, light direction, viewing angle and human perception. These are research/teaching source records, not proof of installed runtime behavior.
+
 ## Optical Shift and Human Perception
 
 **Visual appearance emerges from the interaction of light, physical surfaces, the eye, and the brain.** An object's structure and identity may remain unchanged while lighting, viewing angle, and visual processing alter how it appears.
