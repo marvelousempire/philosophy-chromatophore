@@ -2,6 +2,16 @@
 
 # Philosophy Chromatophore
 
+## In the Mind of the Founder — Optical Shift and Human Perception
+
+> **“Optical shift is the only thing that matters to humans' eye because the humans' eye is the only thing, and listen, the human, the human's eye, and the human's brain, right, are the only things that matter when it comes to what can be seen by that human. Period.”**
+>
+> **— Founder, extended Chromatophore conversation, November 22, 2026**
+
+**Founder emphasis:** Treat the observer's eye and brain as an explicit part of the appearance experienced by that observer. Preserve the distinction between **(a)** the object or organism and its physical structure, **(b)** illumination and optical interaction, **(c)** the signal reaching a particular eye, and **(d)** the interpretation constructed by that person's visual system. Changing the lighting or observer angle can change a perceived color without changing the object's identity, pigment, or underlying state. This is an especially important route into structural color, iridescence, wing scales, chromatophores, and Morph Law. Visible experience also depends on neural interpretation and conditions; this founder statement is a design priority, not a claim that external objects cease to exist or that everyone's visual perception is identical.
+
+Read the expanded [Biological Transformation and Computation chapter](BIOLOGICAL-TRANSFORMATION-AND-COMPUTATION-20261122.md) for octopus, chameleon, butterflies, lighting, morphology and information-processing boundaries.
+
 [First-class Behavior Contract and Eight Lenses](BEHAVIOR-FIRST-CLASS.md) defines triggers, conditions, actions, state changes, feedback, owner, evidence and continuity as one expression of the whole, alongside Form. The reusable implementation candidate is in [Morph Law PR #3](https://github.com/marvelousempire/morph-law/pull/3). No UI animation is treated as proof of a real effect.
 
 ## Whole-organism scope
