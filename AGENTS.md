@@ -1,3 +1,5 @@
+**Founder-wide design constraint — Dynamic yet modular.** Read [the indexed charter](founder-charter/INDEX.md) alongside the Whole-Organism Doctrine before changing this organism. A form transformation must preserve qualified identity, state, meaning, authorization and independent component boundaries; visual movement alone is not a witness of actual operation. Missing evidence means HOLD, not PASS.
+
 # Agent and contributor instructions
 
 **Read [WHOLE-ORGANISM-DOCTRINE.md](WHOLE-ORGANISM-DOCTRINE.md) before summarizing or working on Chromatophore.** Then review the original [README](README.md), [founder intent](founder-intent.md), and relevant source doctrine.
