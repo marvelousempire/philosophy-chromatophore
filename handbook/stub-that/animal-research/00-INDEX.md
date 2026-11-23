@@ -11,6 +11,8 @@
 | AN-005 | Butterfly | Metamorphosis, structural color, iridescence, light and perspective | [05](05-butterfly.md) |
 | AN-006 | Other fish / amphibians / reptiles | Comparative candidates; **not** yet individually confirmed or cataloged as researched | [06](06-future-candidates.md) |
 
+**Umbrella-tip construction:** [ClassifyTHAT → ImagineTHAT → MakeWAY](09-classify-imagine-makeway-umbrella.md) preserves each spoke and its traits, interviews for central intent and separates read-only planning from real execution.
+
 **Cross-cutting lessons:** [Optics and perception](07-optics-and-perception.md) and [StubTHAT records/handoff](08-stubthat-records-and-handoff.md).
 
 ### Required classification
