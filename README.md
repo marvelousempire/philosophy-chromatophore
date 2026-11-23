@@ -2,13 +2,15 @@
 
 # Philosophy Chromatophore
 
-## In the Mind of the Founder — Optical Shift and Human Perception
+## In the Mind of the Founder — The Observer Shapes the Visible Experience
 
-> **“Optical shift is the only thing that matters to humans' eye because the humans' eye is the only thing, and listen, the human, the human's eye, and the human's brain, right, are the only things that matter when it comes to what can be seen by that human. Period.”**
+> **“What a person sees is shaped by the interaction between light, the human eye, and the brain. An object can retain its physical identity while its appearance changes with lighting, perspective, and perception. Chromatophore must account for that relationship between reality and the observer.”**
 >
-> **— Founder, extended Chromatophore conversation, November 22, 2026**
+> **— Editorial rendering of the founder's November 22, 2026 conversation; not a verbatim quotation**
 
-**Founder emphasis:** Treat the observer's eye and brain as an explicit part of the appearance experienced by that observer. Preserve the distinction between **(a)** the object or organism and its physical structure, **(b)** illumination and optical interaction, **(c)** the signal reaching a particular eye, and **(d)** the interpretation constructed by that person's visual system. Changing the lighting or observer angle can change a perceived color without changing the object's identity, pigment, or underlying state. This is an especially important route into structural color, iridescence, wing scales, chromatophores, and Morph Law. Visible experience also depends on neural interpretation and conditions; this founder statement is a design priority, not a claim that external objects cease to exist or that everyone's visual perception is identical.
+**Founder principle:** A visual experience depends on both the world being observed and the observer. Chromatophore distinguishes the source object's identity and structure, incoming illumination, optical behavior, the signal reaching the eye, and the brain's interpretation. Structural color and iridescence illustrate why an apparent color change need not mean an object's pigment or physical state has changed.
+
+**House Speaker publication rule:** Formal founder-facing or public statements must first pass [Founder's Constructive Reasoning](skills/founder-constructive-reasoning/SKILL.md), with a source-fidelity and evidence record, before editorial release. The raw interview wording remains part of the originating conversation and Git history, while the passage above is explicitly labeled as a polished interpretation. The related [ACT V5 House Speaker gate](https://github.com/marvelousempire/act-v5/blob/feat/motif-station-house-speaker-20261118/handbook/motif-house-speaker-delivery/03-house-speaker-hermes-lenses.md) remains a candidate implementation, not verified enforcement.
 
 Read the expanded [Biological Transformation and Computation chapter](BIOLOGICAL-TRANSFORMATION-AND-COMPUTATION-20261122.md) for octopus, chameleon, butterflies, lighting, morphology and information-processing boundaries.
 
