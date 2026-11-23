@@ -73,3 +73,14 @@ StubTHAT owns the catalog/checkpoints; SNF owns semantic identity; SequenceTHAT 
 - Test logs and real-device measurements are required before any implementation is called working.
 
 **Status:** source-only teaching and planning; current running integrations among these three apps are not verified by this handbook.
+
+
+## Composite marketplace — founder's next experience example (November 22)
+
+The founder described an interactive Grand Canvas inspired by **Gran Turismo 5** and the very fine parts in a high-quality collectible model kit. Examples include cars, sneakers, airplanes, boats, houses, spaceships and detailed biological studies such as a fly. The catalog behind that presentation is compared to **Dokan + WooCommerce**, with taxonomies, subcategories, attributes, variations, compatible parts and composite assemblies. Users could bring their own STL assets for local inspection; lightweight metadata should load before heavy geometry.
+
+These references are **new spokes, not a founder-confirmed umbrella tip**. Preserve category, trait, true mechanism, source, licensing, geometry format, scale/units, material, fit, model version, intended use and independent evidence as separate data fields. A random combination must honor the confirmed goal and the actual part-compatibility record; a rendered assembly is not proof that pieces fit or can be printed.
+
+**Source-first proof now available:** [MakeWAY composite-marketplace source study](https://github.com/marvelousempire/makeWAY/tree/main/ways/composite-marketplace) contains a browser-ready source prototype with local ASCII/binary STL intake, a bounded rotatable wireframe, a small sample catalog and a seeded compatibility-aware Random control. These are **candidate parts**, not a live marketplace. They do not imply ACT V5 mounting, SACT deployment, Dokan/WooCommerce sales, or FiveMac receiving. The GitHub action failed without usable job logs, so live acceptance remains open.
+
+**Interview still open:** What is the approved primary creation experience? The founder's explanation was interrupted before a full example involving a fly was completed. Preserve that unanswered question rather than assuming the final behavior.
