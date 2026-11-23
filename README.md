@@ -2,17 +2,13 @@
 
 # Philosophy Chromatophore
 
-## In the Mind of the Founder — The Observer Shapes the Visible Experience
+## Optical Shift and Human Perception
 
-> **“What a person sees is shaped by the interaction between light, the human eye, and the brain. An object can retain its physical identity while its appearance changes with lighting, perspective, and perception. Chromatophore must account for that relationship between reality and the observer.”**
->
-> **— Editorial rendering of the founder's November 22, 2026 conversation; not a verbatim quotation**
+**Visual appearance emerges from the interaction of light, physical surfaces, the eye, and the brain.** An object's structure and identity may remain unchanged while lighting, viewing angle, and visual processing alter how it appears.
 
-**Founder principle:** A visual experience depends on both the world being observed and the observer. Chromatophore distinguishes the source object's identity and structure, incoming illumination, optical behavior, the signal reaching the eye, and the brain's interpretation. Structural color and iridescence illustrate why an apparent color change need not mean an object's pigment or physical state has changed.
+Chromatophore treats these as distinct parts of a coherent system: physical state, illumination, optical response, viewing geometry, sensory reception, and perception. This distinction supports adaptive presentation without confusing a change in appearance with a change in underlying identity or function.
 
-**House Speaker publication rule:** Formal founder-facing or public statements must first pass [Founder's Constructive Reasoning](skills/founder-constructive-reasoning/SKILL.md), with a source-fidelity and evidence record, before editorial release. The raw interview wording remains part of the originating conversation and Git history, while the passage above is explicitly labeled as a polished interpretation. The related [ACT V5 House Speaker gate](https://github.com/marvelousempire/act-v5/blob/feat/motif-station-house-speaker-20261118/handbook/motif-house-speaker-delivery/03-house-speaker-hermes-lenses.md) remains a candidate implementation, not verified enforcement.
-
-Read the expanded [Biological Transformation and Computation chapter](BIOLOGICAL-TRANSFORMATION-AND-COMPUTATION-20261122.md) for octopus, chameleon, butterflies, lighting, morphology and information-processing boundaries.
+Public-facing descriptions should be based on reviewed Constructive Reasoning and suitable editorial checks. Private brainstorming is working material, not publication copy.
 
 [First-class Behavior Contract and Eight Lenses](BEHAVIOR-FIRST-CLASS.md) defines triggers, conditions, actions, state changes, feedback, owner, evidence and continuity as one expression of the whole, alongside Form. The reusable implementation candidate is in [Morph Law PR #3](https://github.com/marvelousempire/morph-law/pull/3). No UI animation is treated as proof of a real effect.
 
