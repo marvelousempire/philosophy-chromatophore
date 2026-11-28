@@ -2,6 +2,10 @@
 
 # Philosophy Chromatophore
 
+**Current founder clarification — November 28, 2026:** Grand Canvas and Automata belong to **Function**. Oh Negative and **every ACT version** belong to **Form** with Chromatophore. This includes ACT V1, ACT V2, ACT V3, ACT V4, ACT V5 and subsequent versions. Cabinet Kitchen contains stackTHAT; ClusterTHAT contains both Language Pie and Pineal. This is conceptual placement. Existing repositories, product owners, permissions and working implementations retain their boundaries; the clarification does not establish installed integration.
+
+Read [the current allocation and retained whole-organism teaching](WHOLE-ORGANISM-DOCTRINE.md#current-architecture--november-28-2026). Whole-organism scope preserves coherence across the roles; it does not place Grand Canvas or Automata inside Form.
+
 ## Handbook and StubTHAT animal research
 
 The [Chromatophore handbook](handbook/00-INDEX.md) indexes animal mechanisms in [StubTHAT-style research records](handbook/stub-that/animal-research/00-INDEX.md). Each discussed animal has a separate evidence and interpretation stub. The [butterfly optical research page](handbook/stub-that/animal-research/05-butterfly.md) separates metamorphosis from structural color, iridescence, light direction, viewing angle and human perception. These are research/teaching source records, not proof of installed runtime behavior.
@@ -18,7 +22,9 @@ Public-facing descriptions should be based on reviewed Constructive Reasoning an
 
 ## Whole-organism scope
 
-**Chromatophore is the governing philosophy of the entire coherent, adaptive software organism.** It includes each node's identity, becoming, meaning, structure, form, behavior, function, computation, interaction, authorized action and continuity. It is not limited to the UI, UX, frontend, backend, renderer, animation, engine or their integration. These are expressions of the whole, not the whole's definition. The octopus, nonagon, Actor Profile, Morph Law and Optimus Instant belong together within this philosophy. Read [Whole-Organism Doctrine](WHOLE-ORGANISM-DOCTRINE.md) before interpreting the individual examples below.
+Read this scope with the current Function/Form allocation above.
+
+**The whole-organism teaching describes coherence across the entire adaptive software organism. Chromatophore belongs with Form in the current architectural allocation.** It includes each node's identity, becoming, meaning, structure, form, behavior, function, computation, interaction, authorized action and continuity. It is not limited to the UI, UX, frontend, backend, renderer, animation, engine or their integration. These are expressions of the whole, not the whole's definition. The octopus, nonagon, Actor Profile, Morph Law and Optimus Instant belong together within this philosophy. Read [Whole-Organism Doctrine](WHOLE-ORGANISM-DOCTRINE.md) before interpreting the individual examples below.
 
 
 ## What This Is
