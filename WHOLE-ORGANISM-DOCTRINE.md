@@ -1,5 +1,10 @@
 # Chromatophore: Whole-Organism Doctrine
 
+## Founder clarification — November 28, 2026
+
+“Grand Canvas is Automata and Act-v5 and Oh Negative and all that is Chromataphore”. AVERY GOODMAN uses Oh Negative as its suit and gear. Grand Canvas, Automata, ACT generations and Oh Negative are expressions of the coherent whole described here; do not recast Chromatophore as only the Form sibling of Automata or as a separate competing platform. Cabinet Kitchen contains stackTHAT; ClusterTHAT contains Language Pie and Pineal. The existing whole-organism scope and distinct owner authority remain intact. The founder's clarification is conceptual direction, not proof of installed runtime equivalence or completed integration.
+
+
 Chromatophore is the governing philosophy of the entire coherent, adaptive software organism. It includes a node's birth and identity, its meaning, structure, data, form, behavior, function, computation, interaction, operation, authority, evidence, and continuity. It is not a frontend, a backend, a user interface, a user experience, an animation library, an engine, or merely an integration between those parts.
 
 Every visible and invisible capability is an expression of the same whole. The Actor Profile records becoming, the octopus supplies the model of coordinated parts, the nonagon supplies a nine-position stamp and fusion point, Morph Law supplies rebinding, and Optimus Instant supplies the ambition of responsive continuity. These do not divide the organism into independent philosophies.
