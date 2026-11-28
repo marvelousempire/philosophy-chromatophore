@@ -2,7 +2,7 @@
 
 **Status:** Source handbook and research catalog. This is not an installed biological simulator or an executable Chromatophore runtime.
 
-1. [Whole-organism philosophy](../WHOLE-ORGANISM-DOCTRINE.md) — the existing governing scope: identity, function, form, behavior and continuity.
+1. [Current Function/Form allocation and whole-organism philosophy](../WHOLE-ORGANISM-DOCTRINE.md#current-architecture--november-28-2026) — Grand Canvas with Automata in Function; Oh Negative and every ACT version with Chromatophore in Form; whole-organism coherence retained across the responsibilities.
 2. [Biological transformation and computation](../BIOLOGICAL-TRANSFORMATION-AND-COMPUTATION-20261122.md) — the existing founder expansion for octopus, chameleon and butterfly.
 3. [StubTHAT animal research catalog](stub-that/animal-research/00-INDEX.md) — one indexed animal record per mechanism.
 4. [Optics and human perception](stub-that/animal-research/07-optics-and-perception.md) — physically changing a body is different from changing the light that a viewer receives.

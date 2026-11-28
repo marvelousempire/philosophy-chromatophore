@@ -1,5 +1,7 @@
 # Founder's Intent — Chromatophore
 
+**Current architecture — November 28, 2026:** Grand Canvas and Automata belong to **Function**. Oh Negative and **every ACT version** belong to **Form** with Chromatophore. Cabinet Kitchen contains stackTHAT; ClusterTHAT contains both Language Pie and Pineal. Whole-organism teachings describe coherence across these responsibilities; they do not override this allocation. Existing implementation and execution ownership remain unchanged. The dated November 5 and October 28 accounts below remain source history. Read [the current correction](WHOLE-ORGANISM-DOCTRINE.md#current-architecture--november-28-2026) before applying them to architectural placement.
+
 ## Founder clarification: complete organism (November 5, 2026)
 
 **Chromatophore is the philosophy of the entire coherent software organism, not a frontend, backend, UI, UX, engine or visual technique.** The node's birth and becoming, Actor Profile, identity, meaning, structure, data, behavior, form, function, computation, interaction, authorization, actual effects and continuity belong together. The founder's Hairline comparison is about making an idea tangible as an executable experience across its intended scope, not simply copying an interactive illustration. The earlier octopus, nonagon, brain, pixel and dynamic-short-code descriptions remain essential examples of the doctrine, not its boundaries. See [Whole-Organism Doctrine](WHOLE-ORGANISM-DOCTRINE.md).
